@@ -1,0 +1,47 @@
+.header{
+    background: lightgray;
+    height: 10vh;
+    width: 100%;
+}
+
+.icon{
+    background: royalblue;
+    width: 5%;
+    height: 80%;
+    margin: 10px;
+    margin-left: 40px;
+    float: left;
+    
+}
+
+.main-sec{
+    text-align: left;
+    height: 25vh;
+    width: 85%;
+    margin: 40px;
+    font-size: 200%;
+    font-family: 'Roboto', sans-serif;
+    overflow: hidden;
+}
+
+.blue{
+    background: royalblue;
+    height: 15vh;
+    width: 100%;
+}
+
+.light-blue{
+    background: aquamarine;
+    height: 15vh;
+    width: 100%;
+}
+.light-green{
+    background: lightgreen;
+    height: 15vh;
+    width: 100%;
+}
+.yellow{
+    background: yellow;
+    height: 15vh;
+    width: 100%;
+}
